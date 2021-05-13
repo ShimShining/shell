@@ -1,0 +1,7 @@
+Alien			HK		119		1982
+Boys_in_conpany_c	HK		192		2192
+Toy_Story		HK		239		3972
+Star_Wars		HK		301		4102
+Akiens			HK		532		4892
+A_Few_Good_men		KL		445		5851
+The_Hill		KL		63		2972

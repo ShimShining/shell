@@ -1,0 +1,6 @@
+root
+bin
+daemon
+adm
+root
+root

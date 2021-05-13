@@ -1,3 +1,10 @@
+root:x:0:0:root:/bin/bash
+bin:x:1:1:bin:/bin:/sbin/nolongin
+daemon:x:2:2:daemon:/sbin:/sbin/nologin
+adm:x:3:4:adm:/sbin/nologin
+
+root:x:0:0:root:/bin/bash
+root:x:0:0:root:/bin/bash
 Ubuntu dhgfu hdfi asdhfi sdfsd fg hgh  efa g rtgyrt y ytr  era  dfsadf  4 fa gsdfg ghs ghh sdf f rr srgdfg sdafg gg sf g gsdf gd gserg sdfg e ag gafg a
 Suse
 Fedora
